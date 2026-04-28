@@ -1,0 +1,14 @@
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\PSEB\Coding Practice\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

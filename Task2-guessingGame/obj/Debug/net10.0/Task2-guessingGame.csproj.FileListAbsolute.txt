@@ -1,0 +1,14 @@
+D:\PSEB\Coding Practice\Task2-guessingGame\bin\Debug\net10.0\Task2-guessingGame.exe
+D:\PSEB\Coding Practice\Task2-guessingGame\bin\Debug\net10.0\Task2-guessingGame.deps.json
+D:\PSEB\Coding Practice\Task2-guessingGame\bin\Debug\net10.0\Task2-guessingGame.runtimeconfig.json
+D:\PSEB\Coding Practice\Task2-guessingGame\bin\Debug\net10.0\Task2-guessingGame.dll
+D:\PSEB\Coding Practice\Task2-guessingGame\bin\Debug\net10.0\Task2-guessingGame.pdb
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.AssemblyInfoInputs.cache
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.AssemblyInfo.cs
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.csproj.CoreCompileInputs.cache
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.dll
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\refint\Task2-guessingGame.dll
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.pdb
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\Task2-guessingGame.genruntimeconfig.cache
+D:\PSEB\Coding Practice\Task2-guessingGame\obj\Debug\net10.0\ref\Task2-guessingGame.dll
